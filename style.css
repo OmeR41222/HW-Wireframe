@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(68, 66, 66);
+}
+
+.container {
+    width: 70%;
+    margin: 10px auto;
+    
+}
+
+.header {
+    background-color: aliceblue;
+    padding: 10px;
+    margin-bottom: 5px;
+
+    text-align: center;
+    color: rgb(68, 66, 66);
+}
+
+.nav {
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 5px auto 10px;
+
+    text-align: center;
+    color: rgb(68, 66, 66);
+
+}
+
+.section {
+    background-color: aliceblue;
+    color: rgb(68, 66, 66);
+    width: 63%;
+    text-align: center;
+    padding: 10px;
+    
+    float: left;
+
+}
+
+.aside {
+    background-color: aliceblue;
+    color: rgb(68, 66, 66);
+    width: 35%;
+    text-align: center;
+    float: right;
+    margin-bottom: 10px;
+    height: 183px;
+    padding-top: 10px;
+
+}
+
+.article {
+background-color: rgb(68, 66, 66);   
+ padding: 10PX;
+ color: white;
+ margin-top: 10px;
+
+}
+.h1 {
+    background-color: aliceblue;
+    color: rgb(68, 66, 66);
+    
+    margin-top: 10px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+}
+ 
+.p{
+    margin-top: 15px;
+    clear: both;
+    background-color: aliceblue;
+    color: rgb(68, 66, 66);
+    
+    padding: 10px;
+
+}
+
+.footer{
+    background-color: aliceblue;
+    padding: 10px;
+    clear: both;
+    margin-top: 5px ;
+    text-align: center;
+    color: rgb(68, 66, 66);
+}
